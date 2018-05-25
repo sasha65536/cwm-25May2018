@@ -1,0 +1,9 @@
+#! /bin/bash
+
+rm *.class
+javac -cp utilmain.jar:. cwm.java
+
+
+java -cp utilmain.jar:. cwm
+
+echo finito!
