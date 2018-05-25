@@ -7,6 +7,6 @@ Thank you for looking at the java solution for the codewith-me rainbow table exe
 
 This git repository contains all solution components and Sunday's original data.
 
-Just download the contents and run the "cwm" script to run the program!
+Just download the contents into a single directory and run the "cwm" script to run the program!
 
 Enjoy!
